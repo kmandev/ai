@@ -1,7 +1,8 @@
-/dataset/*
-/image/*
+# Ignore the dataset folder
+dataset/
 
-dataset
-image
+# Ignore the image folder
+image/
 
-/venv/*
+# Ignore the venv folder
+venv/
