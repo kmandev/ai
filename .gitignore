@@ -1,5 +1,7 @@
 /dataset/*
-dataset/
 /image/*
-image/
+
+dataset
+image
+
 /venv/*
